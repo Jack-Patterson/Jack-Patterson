@@ -4,6 +4,9 @@
 I am a third year student doing Computing with Games Devlopment in Muster Technological University Tralee.
 I enjoy coding, especially in C#.
 I know Java, C#, SQL, HTML, CSS especially well as I have dabbled in a bit of Javascript (NodeJS), PHP, C++ and Lua. I like to just mess around in projects and challenge myself to see what I can do. While not everything is public I also have a Discord bot in Javascript as well as countless C# Unity and some C++ Unreal projects I work on and off on.
+
+![Visual Studio](https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg)
+
 ```
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,3 +29,7 @@ I know Java, C#, SQL, HTML, CSS especially well as I have dabbled in a bit of Ja
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Unreal" **alt="Unreal" width="40" height="40"/>
 </div>
 ```![Visual Studio](https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg)
+
+
+
+

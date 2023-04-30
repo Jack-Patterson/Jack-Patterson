@@ -14,6 +14,7 @@ I have experience in the following languages:
 	- Angular
 - Java
 	- Spring
+	- Maven
 	- Android
 - Kotlin
 	- Android

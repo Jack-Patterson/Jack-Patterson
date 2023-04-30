@@ -1,32 +1,35 @@
 
-# Jack Patterson Github Account
+
+# Jack Patterson
 
 ### Hello, my name is Jack Patterson.
-I am a third year student doing Computing with Games Devlopment in Muster Technological University Tralee.
+I am a third year student doing Computing with Games Development in Muster Technological University Tralee.
 
 I have experience in the following languages:
 
- - Web Devlopment
-	 - HTML
-	 - CSS
-	 - Javascript
-	 - Typescript
-		 - Angular
-- Backend Development
-	- Java
-		- Spring
-	- C#
-		- ASP .NET
-		- Windows Forms
-- Mobile Development
+- HTML
+- CSS
+- Javascript
+- Typescript
+	- Angular
+- Java
+	- Spring
 	- Android
-		- Java
-		- Kotlin
-- Games Devlopment
-	- C#
-		- Unity
-- Data Science
-	- Python
-- Database
-	- SQL
-	- PLSQL
+- Kotlin
+	- Android
+- C#
+	- ASP .NET
+	- Windows Forms
+	- Unity
+- Python
+- SQL
+	- OracleDB
+	- MySQL
+	- PostgresSQL
+- PL/SQL
+	- OracleDB
+
+I also have experience in the following:
+- Azure
+- Azure Devops
+	- Azure Pipelines

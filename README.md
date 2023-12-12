@@ -3,7 +3,7 @@
 # Jack Patterson
 
 ### Hello, my name is Jack Patterson.
-I am a third year student doing Computing with Games Development in Muster Technological University Tralee.
+I am a fourth-year student doing Computing with Games Development at Muster Technological University Tralee.
 
 I have experience in the following languages:
 
@@ -19,6 +19,7 @@ I have experience in the following languages:
 - Kotlin
 	- Android
 - C#
+	- .NET Core	
 	- ASP .NET
 	- Windows Forms
 	- Unity
@@ -26,11 +27,14 @@ I have experience in the following languages:
 - SQL
 	- OracleDB
 	- MySQL
-	- PostgresSQL
+	- PostgreSQL
 - PL/SQL
 	- OracleDB
+ - NoSQL
+ 	- Neo4J
+  	- CouchDB
 
 I also have experience in the following:
 - Azure
-- Azure Devops
+- Azure DevOps
 	- Azure Pipelines

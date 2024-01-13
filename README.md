@@ -1,8 +1,4 @@
-
-
-# Jack Patterson
-
-### Hello, my name is Jack Patterson.
+# Hello, my name is Jack Patterson.
 I am a fourth-year student doing Computing with Games Development at Muster Technological University Tralee.
 
 I have experience in the following languages and technologies:
